@@ -1,5 +1,5 @@
 // Set your APP_ID
-export const APP_ID = process.env.INTERCOM_APP_ID;
+export const APP_ID = process.env.NEXT_PUBLIC_INTERCOM_APP_ID;
 
 // Loads Intercom with the snippet
 // This must be run before boot, it initializes window.Intercom
